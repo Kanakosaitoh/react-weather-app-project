@@ -1,7 +1,7 @@
 import React from "react";
 export default function Weather() {
   return (
-    <div className="container">
+    <div>
       <h1>Burnaby, Canada</h1>
       <h3>Mostly Cloudy, 12:10 PM</h3>
       <div className="row">
