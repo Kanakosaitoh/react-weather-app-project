@@ -9,7 +9,7 @@ export default function Weather() {
             <input
               type="search"
               className="form-control"
-              placeholder="Enter a cioty..."
+              placeholder="Enter a city..."
             />
           </div>
           <div className="col-3">

@@ -16,7 +16,7 @@ export default function App() {
           and is open-sourced on{" "}
           <a
             href="https://github.com/Kanakosaitoh/react-weather-app-project"
-            rel="GitHub respository"
+            rel="GitHub repository"
           >
             GitHub
           </a>{" "}
